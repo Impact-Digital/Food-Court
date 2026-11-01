@@ -1,7 +1,7 @@
- body {
+   body {
           
           font-family: 'Roboto Slab';
-          background-color: darkblue;
+          background-color: black;
           -webkit-background-size: cover;
           -moz-background-size: cover;
           -o-background-size: cover;
@@ -82,7 +82,6 @@
     border: solid 5px rgba(255, 255, 255, 0.424);
 
 
-
 }
 .avtar{
     text-align: center;
@@ -100,14 +99,14 @@
   display: flex;
   width: 50px;
   height: 50px;
-  background-color: white;
+  background-color: gold;
   border-radius: 100%;
   justify-content: center;
   align-items: center;
 }
 .contact_font{
   font-size: 1.8rem;
-  color: red;
+  color: black;
 
 }
 .hr{
@@ -168,7 +167,7 @@ footer{
 }
 .all_font{
   text-decoration: none;
-  color: white;
+  color: gold;
   font-size: 3.5rem ;
 }
 
@@ -191,8 +190,7 @@ footer{
   margin: auto;
   text-align: center;
   font-family: arial;
-  color: white;
-  background-color: black;
+  background-color: gold;
   /* height: 260px; */
 }
 
@@ -205,8 +203,8 @@ footer{
   border: none;
   outline: 0;
   padding: 12px;
-  color: red;
-  background-color: yellow;
+  color: white;
+  background-color: #000;
   text-align: center;
   cursor: pointer;
   width: 100%;
@@ -216,5 +214,3 @@ footer{
 .card button:hover {
   opacity: 0.7;
 }
-
-.a-line{ border: 3px solid darkblue;text-align: center;width: 50px;}
